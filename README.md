@@ -82,8 +82,8 @@ MLNLP 顶会交流群旨在提供高质量的顶会信息同步、投稿经验�
 
 | 会议名称 | 年份 | 官网 | 投稿截止 | Rebuttal | 结果通知 | CR 截止 | 交流群 | 上岸群 | 管理员 |
 |---|---|---|---|---|---|---|---|---|---|
-| <img src="./imgs/logo/aaai.jpg" width="60" /><br>**AAAI** | 2027 | [AAAI-27](https://aaai.org/conference/aaai/aaai-27/) | 2026-07-28<br><sub>23:59 UTC-12</sub> | 2026-10-19 | 2026-11-30 | 2026-12-14 | [📷](./imgs/weixin/aaai/aaai-2027-discussion-group-20260715.png) | TBD | [📷](./imgs/weixin/aaai/AAAI-2027-admin.jpg) |
-| <img src="./imgs/logo/iclr.svg" width="60" /><br>**ICLR** | 2027 | TBD | TBD | TBD | TBD | TBD | [📷](./imgs/weixin/iclr/iclr-2027-discussion-group-20260715.png) | TBD | [📷](./imgs/weixin/iclr/ICLR-2027-admin.jpg) |
+| <img src="./imgs/logo/aaai.jpg" width="60" /><br>**AAAI** | 2027 | [AAAI-27](https://aaai.org/conference/aaai/aaai-27/) | 2026-07-28<br><sub>23:59 UTC-12</sub> | 2026-10-19 | 2026-11-30 | 2026-12-14 | [📷](./imgs/weixin/aaai/aaai-2027-discussion-group-20260729.jpg) | TBD | [📷](./imgs/weixin/aaai/AAAI-2027-admin.jpg) |
+| <img src="./imgs/logo/iclr.svg" width="60" /><br>**ICLR** | 2027 | [ICLR-27](https://iclr.cc/Conferences/2027/Dates) | 2026-09-16<br><sub>AOE</sub> | 2026-10-29<br><sub>AOE</sub> | 2026-12-09<br><sub>AOE</sub> | TBD | [📷](./imgs/weixin/iclr/iclr-2027-discussion-group-20260729.jpg) | TBD | [📷](./imgs/weixin/iclr/ICLR-2027-admin.jpg) |
 | <img src="./imgs/logo/naacl.svg" width="60" /><br>**NAACL** | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | <img src="./imgs/logo/acl.png" width="50" /><br>**ACL** | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
 | <img src="./imgs/logo/icml.svg" width="60" /><br>**ICML** | 2027 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
